@@ -1,0 +1,72 @@
+﻿  Reading Qt configuration (C:/Qt/6.6.0/msvc2019_64/bin/qmake)
+  moc StudySearch.h
+  moc xlsxdocument.h
+  DataList.cpp
+  EngineSearch.cpp
+  main.cpp
+  Province.cpp
+  School.cpp
+  SearchSettings.cpp
+  StudySearch.cpp
+  xlsxabstractooxmlfile.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\DataList.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x429 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  xlsxabstractsheet.cpp
+  xlsxcell.cpp
+  xlsxcellformula.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\EngineSearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x315 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\EngineSearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x31a et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\EngineSearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x3de et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\EngineSearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x574 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\EngineSearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x5a9 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  xlsxcelllocation.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\EngineSearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x5ae et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x570 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x5b8 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x671 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x6c1 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x6d8 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xb8b et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xb91 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1272 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1278 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1688 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x18a2 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x18ab et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1a7a et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x2513 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x2604 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\SearchSettings.h(7,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'QLineEdit' : No such file or directory (compilation du fichier source SearchSettings.cpp)
+  xlsxcellrange.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\School.h(8,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'QtXml' : No such file or directory (compilation du fichier source School.cpp)
+  xlsxcellreference.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\School.h(8,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'QtXml' : No such file or directory (compilation du fichier source Province.cpp)
+  xlsxchart.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\School.h(8,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'QtXml' : No such file or directory (compilation du fichier source EngineSearch.cpp)
+  xlsxchartsheet.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\StudySearch.h(9,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'QHBoxLayout' : No such file or directory (compilation du fichier source StudySearch.cpp)
+  xlsxcolor.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\School.h(8,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'QtXml' : No such file or directory (compilation du fichier source DataList.cpp)
+  xlsxconditionalformatting.cpp
+  xlsxcontenttypes.cpp
+  xlsxdatavalidation.cpp
+  xlsxdatetype.cpp
+  xlsxdocpropsapp.cpp
+  xlsxdocpropscore.cpp
+C:\Users\jonat\Bureau\Project-Jonathan\Project_Good\StudySearch\StudySearch\main.cpp(7,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'QtXml' : No such file or directory
+  xlsxdocument.cpp
+  xlsxdrawing.cpp
+  xlsxdrawinganchor.cpp
+  xlsxformat.cpp
+  xlsxmediafile.cpp
+  xlsxnumformatparser.cpp
+  xlsxrelationships.cpp
+  xlsxrichstring.cpp
+  xlsxsharedstrings.cpp
+  xlsxsimpleooxmlfile.cpp
+  xlsxstyles.cpp
+  xlsxtheme.cpp
+  xlsxutility.cpp
+  xlsxworkbook.cpp
+  xlsxworksheet.cpp
+  xlsxzipreader.cpp
+  xlsxzipwriter.cpp

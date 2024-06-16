@@ -1,0 +1,17 @@
+QTableWidget {
+     background-color: #EEEEEE;
+    border: 1px solid darkgray;
+}
+
+QTableWidget QHeaderView::section {
+    background-color: lightgray;
+    color: black;
+    border: 1px solid lightgray;
+    padding: 2px;
+}
+
+QTableWidget QTableWidgetItem {
+    background-color: black;
+    color: black;
+    border: 1px solid lightgray;
+}
